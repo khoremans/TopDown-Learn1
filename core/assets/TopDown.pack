@@ -1,0 +1,159 @@
+
+TopDown.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 0, 426
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+groundGrass
+  rotate: false
+  xy: 0, 355
+  size: 808, 71
+  orig: 808, 71
+  offset: 0, 0
+  index: -1
+rockGrassDown
+  rotate: false
+  xy: 0, 116
+  size: 108, 239
+  orig: 108, 239
+  offset: 0, 0
+  index: -1
+rockGrassUp
+  rotate: false
+  xy: 800, 667
+  size: 108, 239
+  orig: 108, 239
+  offset: 0, 0
+  index: -1
+shield3
+  rotate: false
+  xy: 108, 218
+  size: 144, 137
+  orig: 144, 137
+  offset: 0, 0
+  index: -1
+shield2
+  rotate: false
+  xy: 252, 236
+  size: 143, 119
+  orig: 143, 119
+  offset: 0, 0
+  index: -1
+shield1
+  rotate: false
+  xy: 395, 247
+  size: 133, 108
+  orig: 133, 108
+  offset: 0, 0
+  index: -1
+life
+  rotate: false
+  xy: 908, 787
+  size: 114, 119
+  orig: 114, 119
+  offset: 0, 0
+  index: -1
+planeRed3
+  rotate: false
+  xy: 0, 43
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+planeRed1
+  rotate: false
+  xy: 800, 594
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+planeRed2
+  rotate: false
+  xy: 108, 145
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+tap2
+  rotate: false
+  xy: 528, 296
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+tap1
+  rotate: false
+  xy: 908, 728
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+meteorBrown_med1
+  rotate: false
+  xy: 0, 0
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+meteorBrown_med2
+  rotate: false
+  xy: 800, 554
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+star_pickup
+  rotate: false
+  xy: 196, 180
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+shield_pickup
+  rotate: false
+  xy: 528, 266
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+meteorBrown_small1
+  rotate: false
+  xy: 108, 117
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+meteorBrown_small2
+  rotate: false
+  xy: 587, 329
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+fuel_pickup
+  rotate: false
+  xy: 88, 86
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+meteorBrown_tiny1
+  rotate: false
+  xy: 252, 218
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+meteorBrown_tiny2
+  rotate: false
+  xy: 888, 652
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
